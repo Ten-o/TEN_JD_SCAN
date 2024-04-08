@@ -6,6 +6,7 @@
     </a>
 </div>
 
+
 <p align="center">
   <a href="https://t.me/Ten_Yes">
     <img src="https://img.shields.io/badge/telegram-𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴-blue?style=flat-square" alt="Telegram">
@@ -15,9 +16,13 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
+
 # 说明文档
-    本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供参考
+
+    本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供学习使用
     
+
+
 **目录架构**
 
 ```bash
