@@ -1,0 +1,210 @@
+{
+    "MAC": {
+            #执行自动生成
+    },
+    "TG_BOT_TOKEN": [
+        #tg机器人token
+        "5852559048:123123123",
+
+    ],
+       #推送id
+    "chat_id": [
+        -1002027598605,
+        -1002094524466
+    ],
+    #特殊活动推送
+    "Separate_push_Token": [
+        "6230371705:123123123"
+    ],
+    "Separate_push_id": [
+        -859049303
+    ],
+    "Separate_push_type": [
+        "lzdz-isv.isvjcloud.com",
+        "lzdz1-isv.isvjcloud.com",
+        "joinCommon",
+        "dzlh0001",
+        "wxTeam",
+        "isvjcloud.com/m/",
+        ".*/mall/active/.*/index.html\\?code=.*",
+        "captain",
+        "esteelauder",
+        "jdbeverage",
+        "10033",
+        "10068",
+        "10070"
+    ],
+
+
+    #loreal系列筛选
+    "loreal_type": {
+        "10006": {
+            "name": "邀请入会",
+            "script": "jd_loreal_invite"
+        },
+        "10020": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_draw"
+        },
+        "10021": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_draw"
+        },
+        "10022": {
+            "name": "每日抢大礼",
+            "script": "jd_loreal_Daily"
+        },
+        "10023": {
+            "name": "签到抽奖",
+            "script": "jd_loreal_Sign"
+        },
+        "10024": {
+            "name": "加购有礼",
+            "script": "jd_loreal_collection"
+        },
+        "10026": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_points"
+        },
+        "10031": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_draw"
+        },
+        "10032": {
+            "name": "集卡有礼",
+            "script": "jd_loreal_Collect"
+        },
+        "10033": {
+            "name": "组队瓜分",
+            "script": "jd_loreal_Team"
+        },
+        "10035": {
+            "name": "读秒拼手速",
+            "script": "jd_loreal_Second"
+        },
+        "10036": {
+            "name": "购物车锦鲤",
+            "script": "jd_loreal_CartKoi"
+        },
+        "10039": {
+            "name": "知识超人",
+            "script": "jd_loreal_Knowled"
+        },
+        "10040": {
+            "name": "签到抽奖",
+            "script": "jd_loreal_Sign"
+        },
+        "10043": {
+            "name": "分享有礼",
+            "script": "jd_loreal_share"
+        },
+        "10044": {
+            "name": "投票有礼",
+            "script": "jd_loreal_vote"
+        },
+        "10046": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_draw"
+        },
+        "10047": {
+            "name": "盖楼有礼",
+            "script": "jd_loreal_Build"
+        },
+        "10048": {
+            "name": "限时抢券",
+            "script": "jd_loreal_Preempt"
+        },
+        "10049": {
+            "name": "完善信息",
+            "script": "jd_loreal_perfectInfo"
+        },
+        "10053": {
+            "name": "关注有礼",
+            "script": "jd_loreal_lkFollowShop"
+        },
+        "10054": {
+            "name": "上上签抽奖",
+            "script": "jd_loreal_upperSign"
+        },
+        "10057": {
+            "name": "让福袋飞",
+            "script": "jd_loreal_UnPacking"
+        },
+        "10058": {
+            "name": "店铺礼包",
+            "script": "jd_loreal_shopGift"
+        },
+        "10063": {
+            "name": "上上签抽奖",
+            "script": "jd_loreal_upperSign"
+        },
+        "10068": {
+            "name": "邀请关注",
+            "script": "jd_loreal_inviteFollowShop"
+        },
+        "10069": {
+            "name": "关注有礼",
+            "script": "jd_loreal_lkFollowShop"
+        },
+        "10070": {
+            "name": "邀请入会",
+            "script": "jd_loreal_invite"
+        },
+        "10073": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_draw"
+        },
+        "10076": {
+            "name": "积分猜大小",
+            "script": "jd_loreal_PointsGame"
+        },
+        "10079": {
+            "name": "积分兑换",
+            "script": "jd_loreal_pointsexchange"
+        },
+        "10080": {
+            "name": "幸运抽奖",
+            "script": "jd_loreal_PointsDraw"
+        },
+        "10081": {
+            "name": "有奖问卷",
+            "script": "jd_loreal_wenjuan"
+        },
+        "10082": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10084": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10086": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10089": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10091": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10092": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        },
+        "10095": {
+            "name": "游戏抽奖",
+            "script": "jd_loreal_game"
+        }
+    },
+    #wx系列筛选
+    "WX_type": {
+        ".*txzj.*lottery": {
+            "name": "txzj抽奖",
+            "script": "jd_txzj_draw",
+            "type": "1"
+        },
+    }
+}
