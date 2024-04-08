@@ -1,11 +1,13 @@
 <div align="center">
-
 # TEN_JD_SCAN
 </div>
 <p align="center">
   <a href="https://t.me/Ten_Yes">
     <img src="https://img.shields.io/badge/telegram-SnakMelon-blue?style=flat-square" alt="Telegram">
   </a>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 # 说明文档
     本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供参考
@@ -58,6 +60,7 @@ TEN_JD_SCAN/               #SnakeMelon根目录
 ## 7. 其他条款
 
 本免责声明构成了您与作者之间关于本项目的完整协议，并取代了所有先前或同时达成的口头或书面协议。作者保留根据需要随时修改本免责声明的权利。
+
 
 
 
