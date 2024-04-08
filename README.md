@@ -1,4 +1,14 @@
+<div align="center">
+
+# TEN_JD_SCAN
+</div>
+<p align="center">
+  <a href="https://t.me/Ten_Yes">
+    <img src="https://img.shields.io/badge/telegram-SnakMelon-blue?style=flat-square" alt="Telegram">
+  </a>
+
 # 说明文档
+    本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供参考
 
 **目录架构**
 
@@ -16,7 +26,7 @@ TEN_JD_SCAN/               #SnakeMelon根目录
 │   └── X_API_EID_TOKEN.py     
 └── README.md             #README.md   
 ```
-.
+
 # 【TEN_JD_SCAN]免责声明
 
 欢迎使用[TEN_JD_SCAN]（以下简称“SCAN”）。在使用本项目之前，请务必仔细阅读并理解以下免责声明。通过使用本项目，您表示同意接受以下条款和条件：
