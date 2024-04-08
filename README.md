@@ -1,3 +1,22 @@
+# 说明文档
+
+**目录架构**
+
+```bash
+TEN_JD_SCAN/               #SnakeMelon根目录
+├── TEN_JD_SCAN.py          #主函数,入口函数
+├── cklist.txt              #ck文件一行一个
+├── config.yml              #redis数据库 ,配置文件
+├── utils/                  #依赖
+│   ├── sign.py             #sign算法
+│   ├── h5st.py             #H5ST算法
+│   ├── logger.py           #日志输出
+│   ├── User_agent.py       #UA生成器
+│   ├── MyApiClient.py      #公共出口
+│   └── X_API_EID_TOKEN.py     
+└── README.md             #README.md   
+```
+
 # 【TEN_JD_SCAN]免责声明
 
 欢迎使用[TEN_JD_SCAN]（以下简称“SCAN”）。在使用本项目之前，请务必仔细阅读并理解以下免责声明。通过使用本项目，您表示同意接受以下条款和条件：
@@ -29,5 +48,6 @@
 ## 7. 其他条款
 
 本免责声明构成了您与作者之间关于本项目的完整协议，并取代了所有先前或同时达成的口头或书面协议。作者保留根据需要随时修改本免责声明的权利。
+
 
 
