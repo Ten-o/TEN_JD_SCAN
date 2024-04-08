@@ -1,4 +1,5 @@
 <div align="center">
+
 # TEN_JD_SCAN
 </div>
 <p align="center">
@@ -6,12 +7,13 @@
     <img src="https://img.shields.io/badge/telegram-SnakMelon-blue?style=flat-square" alt="Telegram">
   </a>
 
+<div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
+</div>
 
 # 说明文档
     本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供参考
-
+    
 **目录架构**
 
 ```bash
