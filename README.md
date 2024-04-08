@@ -1,7 +1,11 @@
 <div align="center">
-
-# TEN_JD_SCAN
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://www.ouklc.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=TEN_JD_SCAN;TEN_JD_SCAN&center=true&size=27" alt="Typing SVG" />
+    </a>
 </div>
+
 <p align="center">
   <a href="https://t.me/Ten_Yes">
     <img src="https://img.shields.io/badge/telegram-𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴-blue?style=flat-square" alt="Telegram">
