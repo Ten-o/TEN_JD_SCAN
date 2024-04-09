@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://t.me/Ten_Yes">
-    <img src="https://img.shields.io/badge/telegram-𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴-blue?style=flat-square" alt="Telegram">
+    <img src="img/telegram.svg" alt="Telegram">
   </a>
 
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="img/giphy.webp" alt="Coder GIF" width="500">
 </div>
 
 
