@@ -7,6 +7,7 @@
 </div>
 
 
+
 <p align="center">
   <a href="https://t.me/Ten_Yes">
     <img src="img/telegram.svg" alt="Telegram">
