@@ -16,7 +16,6 @@
 <img src="img/giphy.webp" alt="Coder GIF" width="500">
 </div>
 
-
 # 说明文档
 
     本项目最后维护时间为2023-12 如代码失效等情况 请勿打扰 仅供学习使用 （什么 圈钱 不是来薅羊毛的 你怎么成羊毛了）
@@ -73,5 +72,10 @@ TEN_JD_SCAN/               #SnakeMelon根目录
 本免责声明构成了您与作者之间关于本项目的完整协议，并取代了所有先前或同时达成的口头或书面协议。作者保留根据需要随时修改本免责声明的权利。
 
 
+# 赞助他
 
+<div align="center">
+<img src="img/wx.jpg"  width="345">
+<img src="img/zfb.jpg"  width="230">
+</div>
 
