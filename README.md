@@ -23,7 +23,7 @@
 **目录架构**
 
 ```bash
-TEN_JD_SCAN/               #SnakeMelon根目录
+TEN_JD_SCAN/               #TEN_JD_SCAN根目录
 ├── TEN_JD_SCAN.py          #主函数,入口函数
 ├── cklist.txt              #ck文件一行一个
 ├── config.yml              #redis数据库 ,配置文件
